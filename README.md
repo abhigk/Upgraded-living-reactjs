@@ -3,7 +3,7 @@
 An E-commerce website built using React with Stripe for payment gateway. This web app includes multiple pages like Products Page with option to filter your product search, Cart Page to review your purchases and Checkout Page to complete the purchase with Stripe Payment.
 Auth0 is used for User Authentication before Checking out.
 
-Live site link: https://upgraded-living.netlify.app/
+<a href="https://upgraded-living.netlify.app/">Live site</a>
 
 - Home Page
 
